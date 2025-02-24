@@ -22,14 +22,11 @@ def rainbowtext(text, delay=0.1):
 
     sys.stdout.write("\033[0m")
     sys.stdout.write("\n")
-
-banner = """                                                                                                           
-    berkay                                       
-"""
+    
 
 class main():
     clearscreen()
-    print(banner)
+    # print(banner)
     rainbowtext("Coding by berkay")
     print("""
    \u001b[35m|-*-*-*-Admin Panel Finder-*-*-*-|\n
