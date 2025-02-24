@@ -34,10 +34,7 @@ Also click to use in replit
 
 
 ### Example usage
-![Windows](https://github.com/)
-
-### Example result
-![Windows](https://github.com/)
+![Windows](https://github.com/xberkay-o/Admin-Panel-Finder/blob/main/Admin-Panel-Finder-Python/images/linux.png)
 
 ## Disclaimer
 
