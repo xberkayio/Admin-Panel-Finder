@@ -15,7 +15,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
  
 1. Clone the repository:
     ```bash
-    git clone https://github.com/xberkay-o/Admin-Panel-Finder
+    git clone https://github.com/xberkayio/Admin-Panel-Finder
     cd Admin-Panel-Finder/Admin-Panel-Finder-Python
     ```
 
@@ -34,7 +34,7 @@ Also click to use in replit
 
 
 ### Example usage
-![Windows](https://github.com/xberkay-o/Admin-Panel-Finder/blob/main/Admin-Panel-Finder-Python/images/linux.png)
+![Windows](https://github.com/xberkayio/Admin-Panel-Finder/blob/main/Admin-Panel-Finder-Python/images/linux.png)
 
 ## Disclaimer
 
