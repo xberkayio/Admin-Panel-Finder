@@ -9,7 +9,7 @@ Also click to use in replit
 
 
 ### Example usage
-![Windows](https://github.com/xberkay-o/Admin-Panel-Finder/blob/main/Admin-Panel-Finder-Python/images/linux.png)
+![Windows](https://github.com/xberkayio/Admin-Panel-Finder/blob/main/Admin-Panel-Finder-Python/images/linux.png)
 
 
 ## Disclaimer
